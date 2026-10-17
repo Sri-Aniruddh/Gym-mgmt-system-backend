@@ -1,0 +1,9 @@
+node_modules
+.env
+.env.local
+.DS_Store
+yarn.lock
+package-lock.json
+uploads/*
+!uploads/.gitkeep
+
